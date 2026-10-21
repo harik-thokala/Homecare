@@ -1,10 +1,10 @@
-package com.example.demo;
+package com.homecare;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HomepulseApplicationTests {
+class HomecareApplicationTests {
 
 	@Test
 	void contextLoads() {
